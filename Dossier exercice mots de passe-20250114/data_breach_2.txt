@@ -1,0 +1,27 @@
+[
+	{
+		"username": "user1",
+		"salt": "f5L",
+		"password": "1671101f0a0279706ad0fec37c597b5c20e5e601"
+	},
+	{
+		"username": "user2",
+		"salt": "!d4",
+		"password": "2fd8ea47d43fb1d463d945e5fce3aa4752a8e93d"
+	},
+	{
+		"username" : "user3",
+		"salt": "45q",
+		"password": "733814ffd26be2c348ffdc2c7670c759ade0458a"
+	},
+	{
+		"username": "user4",
+		"salt": "@5P",
+		"password": "2db5ff58d190169d222a6d215a3059dcbc137bf9"
+	},
+	{
+		"username": "user5",
+		"salt": "a:e",
+		"password": "0e62d0f3f53d7f95daabb01c70428b45067af425"
+	}
+]
