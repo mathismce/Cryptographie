@@ -2,7 +2,7 @@ const str_reverse = function(s) {
     return s.split("").reverse().join("");
 };
 
-
+// transforme un entier en tableau d'entiers
 let int2array_int = function(n, b, l) {
     let m = n;
     s = [];
